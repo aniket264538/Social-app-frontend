@@ -109,7 +109,7 @@ function Form() {
           >
             {page === FormTitles.length - 1 ? "Submit" : "Next"}
           </button>
-          <p id="alreadyaccount">Already Have an account? <span className="signin">Sign In</span></p>
+          <p id="alreadyaccount">Already have an account? <span className="signin">Sign In</span></p>
         </div>
       </div>
     </div>

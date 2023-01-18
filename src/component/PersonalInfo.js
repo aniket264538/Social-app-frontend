@@ -67,7 +67,7 @@ function PersonalInfo({ userDto, setuserDto }) {
             setuserDto({ ...userDto, lastName: e.target.value });
           }}
         />
-        <label className="formlabel">last Name</label>
+        <label className="formlabel">Last Name</label>
       </formgroup>
       <br />
       <forngroup className="form">
